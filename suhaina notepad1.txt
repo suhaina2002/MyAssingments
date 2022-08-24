@@ -1,0 +1,57 @@
+1.What is oops stands for?
+     object oriented programming language.
+
+2.What is Polymorphism? explain types?
+     The ability of class to have different implementation of method.
+     there are two types in polymorpism theyare
+     1.compile time---->it excute during compile time.  methodoverloading allow us to have one method with same name.
+     same method with differen arguments make compile ime error.
+
+     2.run time-----> different class with same method is called methodoverriding.
+
+3.what is interface and example in selenium,java?
+     interface is  abstract type and behavoiur of class .
+      it is unimplement method.
+      It is blueprint of class.
+      (by is abstract class).
+   selenium :
+         webdriver
+   
+4.what is abstarct class and example?
+   abstract is partial implement and unimplement method.
+    it is used for future purpose.
+     changes in main method will change the abstract method and automatically itchange the abstract class.
+
+5.Difference between multiple inheritance and multilevel inheritance
+   1. mutiple inheritance have two base and one derived class .
+      multipe inheritance are not spported by java.
+   2. multilevel have two drived class and single base class. 
+     ex:(grandparent ,parent o child)
+
+6.Is multiple inheritance possible in java?
+    no its not possible.
+
+7.What is keyword for using inheritance  
+         extends.
+
+8.what is the keyword to connect interface and class
+        implement.
+
+9.what is difference between class and interface
+class
+   class can contain concerte (wit imlementation method).
+    the access modifyer with public,private,protectd and defualt.
+ interface
+     it is unimplemented method
+      it is used specifically public.    
+
+10.what is difference between class and abstract class
+class:
+         class cannot contain abstract method
+         class can be declared as final
+         in class we cannot modify the abstract method.
+ abstract method
+         abstract method may or maynot contain abstract method
+         abstract method cannot be declared as final
+          abstract method can declared using abstract method
+          
