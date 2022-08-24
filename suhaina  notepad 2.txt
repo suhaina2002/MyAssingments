@@ -1,0 +1,40 @@
+
+       Answer All the Question
+1.Explain about the main method in java?
+   main method is entry point of java.
+syntax:
+   public static void (string[]args) 
+2.What are the different  Control flow Statements available in java? 
+        if ,if else and switch statement.
+3.What is the Difference betweeen break and continue statements?
+   break:
+          break is used in loop statement to break the statement
+    continue :
+           continue statement will break one iteration in loop,specify the condition and continue with next iteration.
+4.What is an Array? How will you declare an array in java?
+arrayis similar group of data tyes and group of elements.
+      int[] array
+5.When will you get ArrayIndexOutOfBoundsException?
+    arrayindexboundsexception when array or collection are given that are backed with array with inavalid index.
+6.Define the Syntax to create an object for a class.
+    classname object= new constrctor()
+What are the naming conventions to be followed while creating a class, 
+method and a variable.Explain with examoles
+    class: should startfrom uppercase.ex:Tesleaf
+    method:should start with lowercase and followed by uppercase such as first class(). ex:webDriver
+    variables:should strat with lowercase and followed by uppercase such as last class().
+7.What is Variable?How will you declare a variables in java?
+    A variable is container which holds the value.
+    int a
+8.What is String in java? Is it a Data Type?
+string is sequences of characters.
+string is immutable.
+string is a 64 bits memory.
+once declared we cannot modify the string.
+ string is data type(non primitive data type).
+9.What are the different ways to create the String Object in java?
+string literal
+string str="testleaf";
+10.What is the Difference between .Equals and ==? 
+== are used to check the memory address.
+.Equals are sed for content check.
